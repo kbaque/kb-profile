@@ -1,4 +1,4 @@
-# Project Title (large heading)
+# Project Title 
  - Karen's Website 
  
 # Screenshot of your about me page
